@@ -1,1 +1,1 @@
-# .config-alacritty-alacritty.toml
+# Alacritty personal config
